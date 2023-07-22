@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+## Introduction: Video presentation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You are tasked to prepare as small video presentation and explain a
+mathematical topic, in your own words.
 
-## Available Scripts
+## Outline
 
-In the project directory, you can run:
+Make a video presentation on a mathematical topic.
 
-### `npm start`
+Criteria:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+-   The video presentation should be no more than 10 minutes long.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-   The video presentation should have a short introduction on what
+    mathematical topic you chose to explain.
 
-### `npm test`
+-   The video presentation should contain detailed explanations on the
+    mathematical topic you chose to explain. Use an example(s) of your
+    choosing for your explanation. Hint: don’t just use the easiest
+    example you can think of.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+-   The video presentation should contain a short conclusion on the
+    mathematical topic you chose to explain.
 
-### `npm run build`
+Your lecturer will assign you one of the following mathematical topics
+that has to be chosen for your presentation:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   Vectors.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+-   Determinants.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-   Matrices.
 
-### `npm run eject`
+-   Binomial Theorem.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-   Combinatorics.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Mark Allocation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+**Criteria** **Weight**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+Introduction 5
+Mathematics 20
+Conclusion 5
+Overall Presentation 5
+**Total** **35**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Additional Information
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-   All work must be done on your own.
 
-### Code Splitting
+-   Belgium Campus have software that can **scan for plagiarism** and a
+    student caught doing this will get 0 for this assignment.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-   Late assignments will not be accepted; missing the deadline is an
+    automatic 0.
